@@ -48,7 +48,7 @@ The accuracy and completeness of StockX data might be questionable as we only ha
 # Appendix
 
 Data Sources:
-Kaggle StockX Data: https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest/data Code Repository: https://github.com/Analytics-2024/Data_Analysis.git
+Kaggle StockX Data: https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest/data
 
 
 
